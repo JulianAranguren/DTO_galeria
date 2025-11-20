@@ -1,0 +1,693 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|c:\\users\\redsh\\source\\repos\\art_gallery_bd\\galeriadearte\\galeriadearte\\galeriadearte\\forma\u00F1adirartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:forma\u00F1adirartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|c:\\users\\redsh\\source\\repos\\art_gallery_bd\\galeriadearte\\galeriadearte\\galeriadearte\\forma\u00F1adirartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:forma\u00F1adirartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\forma\u00F1adirpintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:forma\u00F1adirpintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|c:\\users\\redsh\\source\\repos\\art_gallery_bd\\galeriadearte\\galeriadearte\\galeriadearte\\formbuscarartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formbuscarartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|c:\\users\\redsh\\source\\repos\\art_gallery_bd\\galeriadearte\\galeriadearte\\galeriadearte\\formbuscarartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formbuscarartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|c:\\users\\redsh\\source\\repos\\art_gallery_bd\\galeriadearte\\galeriadearte\\galeriadearte\\formlistarartistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formlistarartistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|c:\\users\\redsh\\source\\repos\\art_gallery_bd\\galeriadearte\\galeriadearte\\galeriadearte\\obraarterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:obraarterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|c:\\users\\redsh\\source\\repos\\art_gallery_bd\\galeriadearte\\galeriadearte\\galeriadearte\\obraarteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:obraarteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|c:\\users\\redsh\\source\\repos\\art_gallery_bd\\galeriadearte\\galeriadearte\\galeriadearte\\formartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\forma\u00F1adirpintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:forma\u00F1adirpintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\forma\u00F1adirescultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:forma\u00F1adirescultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\forma\u00F1adirescultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:forma\u00F1adirescultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formeliminarescultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formeliminarescultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formbuscarpintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formbuscarpintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formeliminarpintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formeliminarpintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|c:\\users\\redsh\\source\\repos\\art_gallery_bd\\galeriadearte\\galeriadearte\\galeriadearte\\formbuscarescultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formbuscarescultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formbuscarescultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formbuscarescultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|c:\\users\\redsh\\source\\repos\\art_gallery_bd\\galeriadearte\\galeriadearte\\galeriadearte\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|c:\\users\\redsh\\source\\repos\\art_gallery_bd\\galeriadearte\\galeriadearte\\galeriadearte\\formactualizarartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formactualizarartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formbuscarescultura.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formbuscarescultura.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\forma\u00F1adirescultura.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:forma\u00F1adirescultura.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\escultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:escultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GaleriadeArte||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formpintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formpintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formpintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formpintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formlistaresculturas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formlistaresculturas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formeliminarescultura.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formeliminarescultura.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formeliminarescultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formeliminarescultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formeliminarpintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formeliminarpintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formlistarpinturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formlistarpinturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formlistarpinturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formlistarpinturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formlistaresculturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formlistaresculturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formlistaresculturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formlistaresculturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formescultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formescultura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\formbuscarpintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}|GaleriadeArte.csproj|solutionrelative:formbuscarpintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormBuscarArtista.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarArtista.cs",
+              "RelativeDocumentMoniker": "FormBuscarArtista.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarArtista.cs",
+              "RelativeToolTip": "FormBuscarArtista.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAwwAEBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:48:58.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormA\u00F1adirPintura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirPintura.cs",
+              "RelativeDocumentMoniker": "FormA\u00F1adirPintura.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirPintura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormA\u00F1adirPintura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T04:34:13.651Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormA\u00F1adirArtista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirArtista.cs",
+              "RelativeDocumentMoniker": "FormA\u00F1adirArtista.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirArtista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormA\u00F1adirArtista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:11:14.687Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormA\u00F1adirArtista.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirArtista.cs",
+              "RelativeDocumentMoniker": "FormA\u00F1adirArtista.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirArtista.cs",
+              "RelativeToolTip": "FormA\u00F1adirArtista.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAADwv5EAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:26:42.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\ApiService.cs",
+              "RelativeDocumentMoniker": "ApiService.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\ApiService.cs",
+              "RelativeToolTip": "ApiService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:43:28.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ObraArteResponse.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\ObraArteResponse.cs",
+              "RelativeDocumentMoniker": "ObraArteResponse.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\ObraArteResponse.cs",
+              "RelativeToolTip": "ObraArteResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:54:08.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ObraArteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\ObraArteRequest.cs",
+              "RelativeDocumentMoniker": "ObraArteRequest.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\ObraArteRequest.cs",
+              "RelativeToolTip": "ObraArteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:54:20.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormListarArtistas.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarArtistas.cs",
+              "RelativeDocumentMoniker": "FormListarArtistas.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarArtistas.cs",
+              "RelativeToolTip": "FormListarArtistas.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAmwJ8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:41:38.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormBuscarArtista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarArtista.cs",
+              "RelativeDocumentMoniker": "FormBuscarArtista.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarArtista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormBuscarArtista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:50:45.817Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormArtista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormArtista.cs",
+              "RelativeDocumentMoniker": "FormArtista.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormArtista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormArtista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:48:46.577Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormA\u00F1adirEscultura.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirEscultura.cs",
+              "RelativeDocumentMoniker": "FormA\u00F1adirEscultura.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirEscultura.cs",
+              "RelativeToolTip": "FormA\u00F1adirEscultura.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T04:29:59.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormEliminarEscultura.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormEliminarEscultura.cs",
+              "RelativeDocumentMoniker": "FormEliminarEscultura.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormEliminarEscultura.cs",
+              "RelativeToolTip": "FormEliminarEscultura.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA8wCQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:25:18.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormA\u00F1adirPintura.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirPintura.cs",
+              "RelativeDocumentMoniker": "FormA\u00F1adirPintura.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirPintura.cs",
+              "RelativeToolTip": "FormA\u00F1adirPintura.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T04:34:17.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormA\u00F1adirEscultura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirEscultura.cs",
+              "RelativeDocumentMoniker": "FormA\u00F1adirEscultura.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirEscultura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormA\u00F1adirEscultura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:28:18.82Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormBuscarPintura.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarPintura.cs",
+              "RelativeDocumentMoniker": "FormBuscarPintura.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarPintura.cs",
+              "RelativeToolTip": "FormBuscarPintura.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:58:40.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormEliminarPintura.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormEliminarPintura.cs",
+              "RelativeDocumentMoniker": "FormEliminarPintura.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormEliminarPintura.cs",
+              "RelativeToolTip": "FormEliminarPintura.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAqwJcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:11:04.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormBuscarEscultura.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarEscultura.cs",
+              "RelativeDocumentMoniker": "FormBuscarEscultura.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarEscultura.cs",
+              "RelativeToolTip": "FormBuscarEscultura.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:07:54.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\Artista.cs",
+              "RelativeDocumentMoniker": "Artista.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\Artista.cs",
+              "RelativeToolTip": "Artista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:04:04.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormBuscarEscultura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarEscultura.cs",
+              "RelativeDocumentMoniker": "FormBuscarEscultura.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarEscultura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormBuscarEscultura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:07:40.491Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormActualizarArtista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormActualizarArtista.cs",
+              "RelativeDocumentMoniker": "FormActualizarArtista.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormActualizarArtista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormActualizarArtista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:46:41.06Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormBuscarEscultura.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarEscultura.Designer.cs",
+              "RelativeDocumentMoniker": "FormBuscarEscultura.Designer.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarEscultura.Designer.cs",
+              "RelativeToolTip": "FormBuscarEscultura.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:22:37.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Escultura.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\Escultura.cs",
+              "RelativeDocumentMoniker": "Escultura.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\Escultura.cs",
+              "RelativeToolTip": "Escultura.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:36:40.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormA\u00F1adirEscultura.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirEscultura.Designer.cs",
+              "RelativeDocumentMoniker": "FormA\u00F1adirEscultura.Designer.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirEscultura.Designer.cs",
+              "RelativeToolTip": "FormA\u00F1adirEscultura.Designer.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAAAYwA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:28:13.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-13T01:30:52.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GaleriadeArte",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte.csproj",
+              "RelativeDocumentMoniker": "GaleriadeArte.csproj",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte.csproj",
+              "RelativeToolTip": "GaleriadeArte.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T01:31:39.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:31:31.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-11-13T01:31:20.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormPrincipal.cs",
+              "RelativeToolTip": "FormPrincipal.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:02:22.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormPintura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormPintura.cs",
+              "RelativeDocumentMoniker": "FormPintura.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_API\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormPintura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Art_Gallery_API\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormPintura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:45:56.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_API\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Art_Gallery_API\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:01:15.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormPintura.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormPintura.cs",
+              "RelativeDocumentMoniker": "FormPintura.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormPintura.cs",
+              "RelativeToolTip": "FormPintura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:45:59.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormListarEsculturas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarEsculturas.Designer.cs",
+              "RelativeDocumentMoniker": "FormListarEsculturas.Designer.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarEsculturas.Designer.cs",
+              "RelativeToolTip": "FormListarEsculturas.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:33:27.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormEliminarEscultura.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormEliminarEscultura.Designer.cs",
+              "RelativeDocumentMoniker": "FormEliminarEscultura.Designer.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormEliminarEscultura.Designer.cs",
+              "RelativeToolTip": "FormEliminarEscultura.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T21:18:41.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormEliminarEscultura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormEliminarEscultura.cs",
+              "RelativeDocumentMoniker": "FormEliminarEscultura.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormEliminarEscultura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormEliminarEscultura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:54:38.061Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormEliminarPintura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormEliminarPintura.cs",
+              "RelativeDocumentMoniker": "FormEliminarPintura.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormEliminarPintura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormEliminarPintura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:11:00.123Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormListarPinturas.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarPinturas.cs",
+              "RelativeDocumentMoniker": "FormListarPinturas.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarPinturas.cs",
+              "RelativeToolTip": "FormListarPinturas.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:53:10.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormListarPinturas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarPinturas.cs",
+              "RelativeDocumentMoniker": "FormListarPinturas.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_API\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarPinturas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Art_Gallery_API\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarPinturas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T20:46:20.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormListarEsculturas.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarEsculturas.cs",
+              "RelativeDocumentMoniker": "FormListarEsculturas.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarEsculturas.cs",
+              "RelativeToolTip": "FormListarEsculturas.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwF4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T04:49:20.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormListarEsculturas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarEsculturas.cs",
+              "RelativeDocumentMoniker": "FormListarEsculturas.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_API\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarEsculturas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Art_Gallery_API\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarEsculturas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T04:48:33.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormEscultura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormEscultura.cs",
+              "RelativeDocumentMoniker": "FormEscultura.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_API\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormEscultura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Art_Gallery_API\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormEscultura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T04:49:02.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FormBuscarPintura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarPintura.cs",
+              "RelativeDocumentMoniker": "FormBuscarPintura.cs",
+              "ToolTip": "C:\\Users\\redsh\\source\\repos\\Art_Gallery_BD\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarPintura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormBuscarPintura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:58:37.091Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

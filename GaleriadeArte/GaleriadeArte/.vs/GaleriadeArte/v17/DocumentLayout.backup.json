@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarPinturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GaleriadeArte\\GaleriadeArte\\FormListarPinturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GaleriadeArte\\GaleriadeArte\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirPintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirPintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\Pintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GaleriadeArte\\GaleriadeArte\\Pintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarPintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GaleriadeArte\\GaleriadeArte\\FormBuscarPintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarPintura.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GaleriadeArte\\GaleriadeArte\\FormBuscarPintura.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormEliminarPintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GaleriadeArte\\GaleriadeArte\\FormEliminarPintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\ApiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GaleriadeArte\\GaleriadeArte\\ApiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormAcercaDe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GaleriadeArte\\GaleriadeArte\\FormAcercaDe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarPinturas.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GaleriadeArte\\GaleriadeArte\\FormListarPinturas.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormPintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GaleriadeArte\\GaleriadeArte\\FormPintura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormPintura.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GaleriadeArte\\GaleriadeArte\\FormPintura.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormListarPinturas.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarPinturas.cs",
+              "RelativeDocumentMoniker": "GaleriadeArte\\GaleriadeArte\\FormListarPinturas.cs",
+              "ToolTip": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarPinturas.cs",
+              "RelativeToolTip": "GaleriadeArte\\GaleriadeArte\\FormListarPinturas.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:38:06.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormEliminarPintura.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormEliminarPintura.cs",
+              "RelativeDocumentMoniker": "GaleriadeArte\\GaleriadeArte\\FormEliminarPintura.cs",
+              "ToolTip": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormEliminarPintura.cs",
+              "RelativeToolTip": "GaleriadeArte\\GaleriadeArte\\FormEliminarPintura.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:37:39.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormA\u00F1adirPintura.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirPintura.cs",
+              "RelativeDocumentMoniker": "GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirPintura.cs",
+              "ToolTip": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirPintura.cs",
+              "RelativeToolTip": "GaleriadeArte\\GaleriadeArte\\FormA\u00F1adirPintura.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:26:02.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormBuscarPintura.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarPintura.cs",
+              "RelativeDocumentMoniker": "GaleriadeArte\\GaleriadeArte\\FormBuscarPintura.cs",
+              "ToolTip": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarPintura.cs",
+              "RelativeToolTip": "GaleriadeArte\\GaleriadeArte\\FormBuscarPintura.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:11:21.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\Program.cs",
+              "RelativeDocumentMoniker": "GaleriadeArte\\GaleriadeArte\\Program.cs",
+              "ToolTip": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\Program.cs",
+              "RelativeToolTip": "GaleriadeArte\\GaleriadeArte\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:02:00.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pintura.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\Pintura.cs",
+              "RelativeDocumentMoniker": "GaleriadeArte\\GaleriadeArte\\Pintura.cs",
+              "ToolTip": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\Pintura.cs",
+              "RelativeToolTip": "GaleriadeArte\\GaleriadeArte\\Pintura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:36:25.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormBuscarPintura.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarPintura.Designer.cs",
+              "RelativeDocumentMoniker": "GaleriadeArte\\GaleriadeArte\\FormBuscarPintura.Designer.cs",
+              "ToolTip": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormBuscarPintura.Designer.cs",
+              "RelativeToolTip": "GaleriadeArte\\GaleriadeArte\\FormBuscarPintura.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:16:06.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\ApiService.cs",
+              "RelativeDocumentMoniker": "GaleriadeArte\\GaleriadeArte\\ApiService.cs",
+              "ToolTip": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\ApiService.cs",
+              "RelativeToolTip": "GaleriadeArte\\GaleriadeArte\\ApiService.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T05:27:10.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormListarPinturas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarPinturas.Designer.cs",
+              "RelativeDocumentMoniker": "GaleriadeArte\\GaleriadeArte\\FormListarPinturas.Designer.cs",
+              "ToolTip": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormListarPinturas.Designer.cs",
+              "RelativeToolTip": "GaleriadeArte\\GaleriadeArte\\FormListarPinturas.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:39:06.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormAcercaDe.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormAcercaDe.cs",
+              "RelativeDocumentMoniker": "GaleriadeArte\\GaleriadeArte\\FormAcercaDe.cs",
+              "ToolTip": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormAcercaDe.cs",
+              "RelativeToolTip": "GaleriadeArte\\GaleriadeArte\\FormAcercaDe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:15:49.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormPintura.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormPintura.Designer.cs",
+              "RelativeDocumentMoniker": "GaleriadeArte\\GaleriadeArte\\FormPintura.Designer.cs",
+              "ToolTip": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormPintura.Designer.cs",
+              "RelativeToolTip": "GaleriadeArte\\GaleriadeArte\\FormPintura.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:34:51.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormPintura.cs",
+              "DocumentMoniker": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormPintura.cs",
+              "RelativeDocumentMoniker": "GaleriadeArte\\GaleriadeArte\\FormPintura.cs",
+              "ToolTip": "C:\\Users\\redsh\\OneDrive\\Escritorio\\GaleriadeArte\\GaleriadeArte\\GaleriadeArte\\FormPintura.cs",
+              "RelativeToolTip": "GaleriadeArte\\GaleriadeArte\\FormPintura.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T06:15:28.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

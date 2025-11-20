@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BB4E06E0-EA04-45F5-9253-9B0D39B70DEB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GaleriadeArte</RootNamespace>
+    <AssemblyName>GaleriadeArte</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.8.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=112.1.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>packages\RestSharp.112.1.0\lib\net48\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Encodings.Web.8.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=8.0.0.4, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Json.8.0.4\lib\net462\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Artista.cs" />
+    <Compile Include="FormAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAcercaDe.Designer.cs">
+      <DependentUpon>FormAcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormActualizarArtista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormArtista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormArtista.Designer.cs">
+      <DependentUpon>FormArtista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAñadirArtista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBuscarArtista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEliminarArtista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormListarArtistas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAñadirEscultura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAñadirEscultura.Designer.cs">
+      <DependentUpon>FormAñadirEscultura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAñadirPintura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAñadirPintura.Designer.cs">
+      <DependentUpon>FormAñadirPintura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBuscarEscultura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBuscarEscultura.Designer.cs">
+      <DependentUpon>FormBuscarEscultura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBuscarPintura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBuscarPintura.Designer.cs">
+      <DependentUpon>FormBuscarPintura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEliminarEscultura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEliminarEscultura.Designer.cs">
+      <DependentUpon>FormEliminarEscultura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEliminarPintura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEliminarPintura.Designer.cs">
+      <DependentUpon>FormEliminarPintura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEscultura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEscultura.Designer.cs">
+      <DependentUpon>FormEscultura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormListarEsculturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormListarEsculturas.Designer.cs">
+      <DependentUpon>FormListarEsculturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormListarPinturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormListarPinturas.Designer.cs">
+      <DependentUpon>FormListarPinturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPintura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPintura.Designer.cs">
+      <DependentUpon>FormPintura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ObraArteRequest.cs" />
+    <Compile Include="ObraArteResponse.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormAcercaDe.resx">
+      <DependentUpon>FormAcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormArtista.resx">
+      <DependentUpon>FormArtista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAñadirEscultura.resx">
+      <DependentUpon>FormAñadirEscultura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAñadirPintura.resx">
+      <DependentUpon>FormAñadirPintura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBuscarEscultura.resx">
+      <DependentUpon>FormBuscarEscultura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBuscarPintura.resx">
+      <DependentUpon>FormBuscarPintura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEliminarEscultura.resx">
+      <DependentUpon>FormEliminarEscultura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEliminarPintura.resx">
+      <DependentUpon>FormEliminarPintura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEscultura.resx">
+      <DependentUpon>FormEscultura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormListarEsculturas.resx">
+      <DependentUpon>FormListarEsculturas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormListarPinturas.resx">
+      <DependentUpon>FormListarPinturas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPintura.resx">
+      <DependentUpon>FormPintura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="ApiService.cs" />
+    <Compile Include="Pintura.cs" />
+    <Compile Include="Escultura.cs" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Imagenes\Acerca de.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\Agregar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\apolo.ico" />
+    <Content Include="Imagenes\apolo.jpg" />
+    <Content Include="Imagenes\Background dedo derecha.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\Background dedo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\background.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\Buscar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\Eliminar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Imagenes\icono.ico" />
+    <Content Include="Imagenes\icono.png" />
+    <Content Include="Imagenes\Listar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\background.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
