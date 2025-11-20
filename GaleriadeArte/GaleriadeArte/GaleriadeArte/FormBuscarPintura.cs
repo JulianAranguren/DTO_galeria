@@ -41,7 +41,7 @@ namespace GaleriadeArte
                 }
 
                 // Buscar pintura por ID (asegúrate que este método exista en ApiService)
-                Pintura pintura = await api.BuscarPinturaPorIdAsync(id);
+                Pintura pintura = await api.GetPinturaAsync(id);
 
                 if (pintura == null)
                 {

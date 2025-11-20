@@ -82,7 +82,7 @@ namespace GaleriadeArte
 
         private void btnAutor_Click(object sender, EventArgs e)
         {
-            FormAutor ventana = new FormAutor();
+            FormArtista ventana = new FormArtista();
             ventana.Show();
         }
 

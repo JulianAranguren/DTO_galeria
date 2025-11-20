@@ -34,7 +34,7 @@ namespace GaleriadeArte
 
                 int id = int.Parse(txtIdEscultura.Text);
 
-                Escultura escultura = await api.BuscarEsculturaPorIdAsync(id);
+                Escultura escultura = await api.GetEsculturaAsync(id);
 
                 if (escultura == null)
                 {

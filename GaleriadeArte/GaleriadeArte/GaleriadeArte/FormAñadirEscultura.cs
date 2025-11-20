@@ -28,28 +28,54 @@ namespace GaleriadeArte
         {
             try
             {
-                Escultura nueva = new Escultura
+                // Validaciones básicas
+                if (string.IsNullOrWhiteSpace(txtTitulo.Text) || string.IsNullOrWhiteSpace(txtAutor.Text))
                 {
-                    Id = int.Parse(txtId.Text),
+                    MessageBox.Show("❌ El título y el autor son obligatorios");
+                    return;
+                }
+
+                // Crear el DTO en lugar de la entidad Escultura
+                var requestDTO = new ObraArteRequest
+                {
                     Titulo = txtTitulo.Text,
                     Autor = txtAutor.Text,
                     Precio = double.Parse(txtPrecio.Text),
                     Estado = comboEstado.SelectedItem?.ToString() ?? "Activo",
-                    FechaIngreso = DateTime.Parse(dateFecha.Value.ToString("yyyy-MM-ddTHH:mm:ss")),
-                    Tipo = txtTipo.Text,
-                    Altura = double.Parse(txtVolumen.Text),
+                    Altura = double.Parse(txtAltura.Text), // Asumo que tienes txtAltura
                     Volumen = double.Parse(txtVolumen.Text),
-                    Material = txtMaterial.Text
+                    Material = txtMaterial.Text,
+                    TipoEscultura = textBox2.Text // Considera renombrar textBox2 a txtTipoEscultura
                 };
 
-                Escultura creada = await api.CrearEsculturaAsync(nueva);
+                // Usar el método con DTO que valida el artista
+                ObraArteResponse creada = await api.CrearEsculturaConDTOAsync(requestDTO);
 
-                MessageBox.Show($"✅ Escultura añadida con éxito:\nID: {creada.Id}\nTítulo: {creada.Titulo}");
+                MessageBox.Show($"✅ Escultura añadida con éxito:\nID: {creada.Id}\nTítulo: {creada.Titulo}\nArtista: {creada.Artista?.Nombre}");
+
+                // Limpiar campos después de agregar
+                LimpiarCampos();
+            }
+            catch (FormatException)
+            {
+                MessageBox.Show("❌ Error en el formato de los números (precio, altura, volumen)");
             }
             catch (Exception ex)
             {
                 MessageBox.Show("❌ Error al añadir escultura: " + ex.Message);
             }
+        }
+
+        private void LimpiarCampos()
+        {
+            txtTitulo.Clear();
+            txtAutor.Clear();
+            txtPrecio.Clear();
+            txtAltura.Clear(); // Asumo que tienes este campo
+            txtVolumen.Clear();
+            txtMaterial.Clear();
+            textBox2.Clear(); // Considera renombrar a txtTipoEscultura
+            comboEstado.SelectedIndex = 0; // Volver al primer elemento
         }
 
         private void btnAñadir_MouseEnter(object sender, EventArgs e)
@@ -99,6 +125,11 @@ namespace GaleriadeArte
         }
 
         private void txtTextura_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtEscultura_TextChanged(object sender, EventArgs e)
         {
 
         }

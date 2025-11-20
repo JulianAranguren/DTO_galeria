@@ -57,23 +57,36 @@ namespace GaleriadeArte
         {
             try
             {
-                Pintura nueva = new Pintura
+                // Validaciones básicas
+                if (string.IsNullOrWhiteSpace(txtTitulo.Text) || string.IsNullOrWhiteSpace(txtAutor.Text))
                 {
-                    Id = int.Parse(txtIdPintura.Text),
+                    MessageBox.Show("❌ El título y el autor son obligatorios");
+                    return;
+                }
+
+                // Crear el DTO en lugar de la entidad Pintura
+                var requestDTO = new ObraArteRequest
+                {
                     Titulo = txtTitulo.Text,
                     Autor = txtAutor.Text,
                     Precio = double.Parse(txtPrecio.Text),
                     Estado = comboBox1.SelectedItem?.ToString() ?? "Activo",
                     Tecnica = textTecnica.Text,
-                    Textura = txtTextura.Text,
-                    FechaIngreso = DateTime.Parse(dateTimePicker1.Value.ToString("yyyy-MM-ddTHH:mm:ss"))
-
+                    Textura = txtTextura.Text
+                    // NOTA: No envíes FechaIngreso ni ID, se generan automáticamente
                 };
 
-                // ✅ Usa la misma instancia "api", no crees otra
-                Pintura creada = await api.CrearPinturaAsync(nueva);
+                // ✅ Usar el método con DTO que valida el artista
+                ObraArteResponse creada = await api.CrearPinturaConDTOAsync(requestDTO);
 
-                MessageBox.Show($"✅ Pintura añadida con éxito:\nID: {creada.Id}\nTítulo: {creada.Titulo}");
+                MessageBox.Show($"✅ Pintura añadida con éxito:\nID: {creada.Id}\nTítulo: {creada.Titulo}\nArtista: {creada.Artista?.Nombre}");
+
+                // Limpiar campos después de agregar
+                LimpiarCampos();
+            }
+            catch (FormatException)
+            {
+                MessageBox.Show("❌ Error en el formato del precio (debe ser un número)");
             }
             catch (Exception ex)
             {
@@ -81,7 +94,18 @@ namespace GaleriadeArte
             }
         }
 
-        
+        private void LimpiarCampos()
+        {
+            txtTitulo.Clear();
+            txtAutor.Clear();
+            txtPrecio.Clear();
+            textTecnica.Clear();
+            txtTextura.Clear();
+            comboBox1.SelectedIndex = 0; // Volver al primer elemento
+                                         // No limpies txtIdPintura porque el ID lo genera la base de datos
+        }
+
+
 
         private void btnAñadir_MouseEnter(object sender, EventArgs e)
         {

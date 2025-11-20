@@ -47,6 +47,7 @@
     <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
     </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
@@ -82,36 +83,33 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ApiServiceAutores.cs" />
+    <Compile Include="Artista.cs" />
     <Compile Include="FormAcercaDe.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormAcercaDe.Designer.cs">
       <DependentUpon>FormAcercaDe.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormAñadirAutor.cs">
+    <Compile Include="FormActualizarArtista.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormAñadirAutor.Designer.cs">
-      <DependentUpon>FormAñadirAutor.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormBuscarAutor.cs">
+    <Compile Include="FormArtista.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormBuscarAutor.Designer.cs">
-      <DependentUpon>FormBuscarAutor.cs</DependentUpon>
+    <Compile Include="FormArtista.Designer.cs">
+      <DependentUpon>FormArtista.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormListarAutores.cs">
+    <Compile Include="FormAñadirArtista.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormListarAutores.Designer.cs">
-      <DependentUpon>FormListarAutores.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormAutor.cs">
+    <Compile Include="FormBuscarArtista.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormAutor.Designer.cs">
-      <DependentUpon>FormAutor.cs</DependentUpon>
+    <Compile Include="FormEliminarArtista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormListarArtistas.cs">
+      <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormPrincipal.cs">
       <SubType>Form</SubType>
@@ -179,13 +177,15 @@
     <Compile Include="FormPintura.Designer.cs">
       <DependentUpon>FormPintura.cs</DependentUpon>
     </Compile>
+    <Compile Include="ObraArteRequest.cs" />
+    <Compile Include="ObraArteResponse.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormAcercaDe.resx">
       <DependentUpon>FormAcercaDe.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormAutor.resx">
-      <DependentUpon>FormAutor.cs</DependentUpon>
+    <EmbeddedResource Include="FormArtista.resx">
+      <DependentUpon>FormArtista.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormPrincipal.resx">
       <DependentUpon>FormPrincipal.cs</DependentUpon>

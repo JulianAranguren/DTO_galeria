@@ -34,7 +34,7 @@ namespace GaleriadeArte
 
                 int id = int.Parse(txtIdEscultura.Text);
 
-                Escultura escultura = await api.BuscarEsculturaPorIdAsync(id);
+                Escultura escultura = await api.GetEsculturaAsync(id);
 
                 if (escultura == null)
                 {
@@ -52,6 +52,8 @@ namespace GaleriadeArte
                 txtAltura.Text = escultura.Altura.ToString();
                 txtVolumen.Text = escultura.Volumen.ToString();
                 txtTipo.Text = escultura.Tipo;
+                textBox2.Text = escultura.tipoEscultura;
+
             }
             catch (Exception ex)
             {
@@ -85,7 +87,8 @@ namespace GaleriadeArte
                     Material = txtMaterial.Text,
                     Altura = double.TryParse(txtAltura.Text, out double altura) ? altura : 0,
                     Volumen = double.TryParse(txtVolumen.Text, out double volumen) ? volumen : 0,
-                    Tipo = txtTipo.Text
+                    Tipo = txtTipo.Text,
+                    tipoEscultura = textBox2.Text
                 };
 
                 // Llamar al API
@@ -104,6 +107,7 @@ namespace GaleriadeArte
                 txtAltura.Text = actualizada.Altura.ToString();
                 txtVolumen.Text = actualizada.Volumen.ToString();
                 txtTipo.Text = actualizada.Tipo;
+                textBox2.Text = actualizada.tipoEscultura;
             }
             catch (Exception ex)
             {

@@ -15,5 +15,7 @@ namespace GaleriadeArte
         public double Altura { get; set; }       // Altura en cm o m
         public double Volumen { get; set; }      // Volumen en cm³ o m³
         public string Material { get; set; }     // Material principal (madera, bronce, etc.)
+
+        public string tipoEscultura { get; set; }
     }
 }
